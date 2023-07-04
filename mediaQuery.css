@@ -1,0 +1,285 @@
+@media screen and (max-width:1039px) {
+    .box{
+        padding: 20px;
+    }
+}
+
+@media screen and (max-width:990px) {
+    .srch{
+        width: 120px;
+    }
+}
+
+@media screen and (max-width:965px) {
+    .box{
+        padding: 10px;
+    }
+    .box h1{
+        font-size: 18px;
+    }
+    .box p{
+        font-size: 14px;
+    }
+    .box h2{
+        font-size: 16px;
+    }
+}
+
+@media screen and (max-width:914px) {
+    .dev-content h1{
+        font-size: 28px;
+    }
+    .dev-img{
+        height: 70%;
+    }
+}
+
+@media screen and (max-width:824px) {
+    .search{
+        width: 100%;
+        justify-content: flex-end;
+    }
+    .srch{
+        flex: 2;
+    }
+    .gdw-title h1{
+        font-size: 32px;
+    }
+}
+
+@media screen and (max-width:815px) {
+    .dev-content h1{
+        font-size: 24px;
+        margin-bottom: 10px;
+    }.dev-content p{
+        margin-bottom: 10px;
+    }.dev-content h3{
+        margin-bottom: 10px;
+    }
+}
+
+@media screen and (max-width:785px) {
+    
+    .about{
+        flex-direction: column-reverse;
+    }
+    .items{
+        width: 100%;
+    }
+    .excellence{
+        flex-direction: column;
+    }
+    .excellence-content,
+    .excellence-box{
+        width: 100%;
+    }
+    .box{
+        padding: 30px;
+    }
+    .box h1{
+        font-size: 32px;
+    }
+    .box p{
+        font-size: 18px;
+    }
+    .box h2{
+        font-size: 20px;
+    }
+    .gdw-title h1{
+        font-size: 28px;
+    }
+}
+
+@media screen and (max-width:740px) {
+    .gdw-ctn a{
+        padding: 10px;
+    }
+    .gdw-ctn h3{
+        margin-bottom:5px;
+        margin-top: -10px;
+    }
+    .gdw-ctn p{
+        margin-bottom: 5px;
+    }
+}
+
+@media screen and (max-width:710px) {
+    .great-designer-website{
+        flex-direction: column;
+    }
+    .gdw-ctn{
+        flex-direction: column;
+    }
+}
+
+@media screen and (max-width:677px) {
+    .excellence-content h1,
+    .wwd-ctn h1{
+        font-size: 28px;
+    }
+    
+}
+
+@media screen and (max-width:664px) {
+    .contact h1{
+        font-size: 32px;
+    }
+    .contact h1{
+        font-size: 24px;
+    }
+}
+
+@media screen and (max-width:630px) {
+    .navbar{
+        position: relative;
+    }
+}
+
+@media screen and (max-width:625px) {
+    .dev{
+        flex-direction: column-reverse;
+    }
+    .ccp{
+        flex-direction: column;
+    }
+    .dev-content,
+    .dev-img{
+        width: 100%;
+    }
+}
+
+@media screen and (max-width:605px) {
+    .project-title{
+        flex-direction: column;
+    }
+    .prj{
+        padding: 0;
+        width: 100%;
+    }
+    
+
+@media screen and (max-width:602px) {
+    .excellence-content h1,
+    .wwd-ctn h1{
+        font-size: 24px;
+    }
+    
+}
+
+}
+@media screen and (max-width:572px) {
+    .contact h1{
+        font-size: 28px;
+    }
+}
+
+@media screen and (max-width:535px) {
+    .content-text h1{
+        font-size: 38px;
+    }
+    
+    .content-text p{
+        font-size: 16px;
+    }
+
+    .box{
+        padding: 5px;
+    }
+    .box h1{
+        font-size: 16px;
+    }
+    .box p{
+        font-size: 10px;
+    }
+    .box h2{
+        font-size: 14px;
+    }
+    .companies h1{
+        font-size: 28px;
+    }
+}
+
+@media screen and (max-width:480px) {
+    .navbar{
+        flex-direction: column;
+    }
+    .menu ul li{
+        display: flex;
+        flex-direction:column ;
+        text-align: center;
+    }
+    .content-text h1{
+        font-size: 48px;
+    }
+}
+
+@media screen and (max-width:449px) {
+    .contact{
+        padding: 20px;
+    }
+    .contact h1{
+        font-size: 22px;
+    }
+}
+
+@media screen and (max-width:418px) {
+    .content-text h1{
+        font-size: 32px;
+    }
+}
+
+@media screen and (max-width:382px) {
+    .pricing a{
+        padding: 10px;
+    }
+
+    .package {
+        margin-bottom: 5px;
+    }
+
+    .item-title{
+        margin-bottom: 0;
+    }
+    .pricing .item-title h1{
+        font-size: 23px;
+    }
+    .item-title p{
+        margin-bottom: 10px;
+    }
+
+    .list ul li{
+        line-height: 2;
+    }
+    .package p span{
+        font-size: 36px;
+    }
+    .pricing .wwd-box:hover{
+        scale: 1.05;
+    }
+}
+
+@media screen and (max-width:378px) {
+    .contact h1{
+        font-size: 20px;
+    }
+}
+
+@media screen and (max-width:371px) {
+    
+    .content-text h1{
+        font-size: 32px;
+    }
+    section{
+        padding: 20px !important;
+    }
+}
+
+@media screen and (max-width:348px) {
+    .contact h1{
+        font-size: 18px;
+    }
+    .contact{
+        gap: 5px;
+    }
+}
+
